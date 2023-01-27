@@ -1,8 +1,7 @@
 
 /* Your CSS Code here. */
-.holder{
+#holder{
 	display:grid;
 	width:200px;
-	height:200px;
 	grid-template-columns: repeat(2,auto);
 }
